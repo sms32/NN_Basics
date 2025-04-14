@@ -1,12 +1,12 @@
-# 🧠 Basics of Neural Networks
+#  Basics of Neural Networks
 
 This project is a hands-on exploration of the **fundamentals of neural networks** using **PyTorch** and **Torchvision**. It covers both theoretical understanding and practical implementation of simple neural networks.
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
-### ✅ Logical Gates Simulation with Neural Networks
+###  Logical Gates Simulation with Neural Networks
 Implemented simple feedforward neural networks that learn to simulate:
 - AND Gate
 - OR Gate
@@ -18,7 +18,7 @@ These examples demonstrate how neural networks can replicate logical behavior by
 
 ---
 
-### 🖼️ Binary Image Classification
+###  Binary Image Classification
 Built a basic binary image classifier using PyTorch. Features include:
 - Accepts user-uploaded images
 - Preprocesses using torchvision transforms
@@ -27,7 +27,7 @@ Built a basic binary image classifier using PyTorch. Features include:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python
 - PyTorch
@@ -37,7 +37,7 @@ Built a basic binary image classifier using PyTorch. Features include:
 
 ---
 
-## 🎯 What I Learned
+##  What I Learned
 
 - Core concepts of neural networks (neurons, layers, weights, biases)
 - Activation functions like Sigmoid and ReLU
@@ -49,7 +49,7 @@ Built a basic binary image classifier using PyTorch. Features include:
 
 ---
 
-## 🔧 How to Use
+##  How to Use
 
 ```bash
 # Clone the repository
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 
 Feel free to explore, clone, and learn from the code!
 
